@@ -1,0 +1,5 @@
+{
+  "name": "Football Injury & Workload Prediction Dashboard",
+  "description": "A dashboard to visualize football player workload and predict injury risk using real-time data from top 5 European leagues. It features player fatigue analysis, fixture tracking, and risk assessment through intuitive charts and graphs.",
+  "requestFramePermissions": []
+}
